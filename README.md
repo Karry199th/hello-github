@@ -1,2 +1,2 @@
 # hello-github
-a test
+a test following the basic usage of github
